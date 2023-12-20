@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cpapiaud
-- I'm looking to know how to put accents on capital voyels ?
+- I'm looking to know how to put accents on capital vowels ?
 - 
 
 <!---
